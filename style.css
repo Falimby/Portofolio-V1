@@ -511,7 +511,7 @@ body {
   .link a {
     color: var(--text);
     margin: 0 2rem;
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
   .footer .Copy {
     flex: 1 100%;
